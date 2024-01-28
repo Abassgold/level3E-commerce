@@ -1,0 +1,16 @@
+.search {
+    margin-left: 250px;
+    position: absolute;
+    top: 30%;
+}
+.logo {
+    margin-left: 120px;
+    margin-right: 60px;
+}
+@media screen and (max-width: 768px) {
+    .search {
+        margin-left: 250px;
+        position: absolute;
+        top: 85%;
+    }
+}

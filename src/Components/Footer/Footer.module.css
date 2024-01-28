@@ -1,0 +1,22 @@
+.input {
+    width: 68%;
+    height: 40px;
+    margin-left: 5px;
+    border: 1px solid white;
+    font-size: 15px;
+    font-weight: 600;
+    margin-top: 8px;
+    background-color: black;
+}
+.send {
+    position: absolute;
+    left: 210px;
+    margin-top: 18px;
+}
+.code {
+    width: 60px;
+    height: 75px;
+}
+body {
+    overflow-x: hidden;
+}
